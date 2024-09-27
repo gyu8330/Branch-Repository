@@ -1,2 +1,2 @@
-Text file for branch.
+컴퓨터공학과
 You have to commit it.
